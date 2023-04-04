@@ -1,0 +1,20 @@
+{
+  "name": "tugas-membuat-api",
+  "version": "1.0.0",
+  "description": "Tugas membuat api sederhana bootcamp hari senin",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "build": "node src/index.js"
+  },
+  "author": "Putra jaya sinaga",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "latest"
+  },
+  "dependencies": {
+    "express": "latest",
+    "cors": "latest",
+    "dotenv": "latest"
+  }
+}
